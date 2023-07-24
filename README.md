@@ -1,6 +1,6 @@
 # Weather App
 
-This Weather App allows users to get weather data for any searched city and also provides weather information for the user's current location. The app was developed as a solo project and completed within 2 days.
+This Weather App allows users to get weather data for any searched city and also provides weather information for the user's current location. 
 
 ## Live Demo
 
